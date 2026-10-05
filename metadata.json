@@ -1,0 +1,6 @@
+{
+  "name": "Royal Mansion Lawns & Resort",
+  "description": "Premier wedding lawns, luxury resort rooms, and opulent AC banquet halls on GT Road, Sarsaul, Kanpur. Book dates directly via WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
